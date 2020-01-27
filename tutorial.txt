@@ -1,2 +1,2 @@
-১.৯ - বিভিন্ন রকমের নাম্বার সিস্টেম নিয়ে আলোচনা
-https://learnwith.hasinhayder.com/wp/course/mastering-php-7/chapter/1/episode/9/
+১.১৩ - ইফ এলস, লিপ ইয়ার এবং কিভাবে জটিল কন্ডিশন গুলো শর্টকাটে লেখা যায়
+https://learnwith.hasinhayder.com/wp/course/mastering-php-7/chapter/1/episode/13/
