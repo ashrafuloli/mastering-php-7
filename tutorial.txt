@@ -1,2 +1,2 @@
-১.১৩ - ইফ এলস, লিপ ইয়ার এবং কিভাবে জটিল কন্ডিশন গুলো শর্টকাটে লেখা যায়
+১.১৯ - পিএইচপিতে অপারেটর প্রিসিডেন্স - কে আর আগে রান করে
 https://learnwith.hasinhayder.com/wp/course/mastering-php-7/chapter/1/episode/13/

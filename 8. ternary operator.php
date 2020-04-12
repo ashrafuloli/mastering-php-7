@@ -2,7 +2,7 @@
 
 // ternary operator
 
-$n = 12;
+$n = 10;
 
 if ( 12 == $n ) {
     echo "Twelve";
@@ -15,7 +15,7 @@ if ( 12 == $n ) {
 echo "\n";
 
 // $numberInWord = (12 == $n) ? "Twelve": "A number";
-$numberInWord = ( 12 == $n ) ? "Twelve" : ( 10 == $n ) ? "Ten" : "A number";
+$numberInWord = ( 12 == $n ) ? "Twelve" : (( 10 == $n ) ? "Ten" : "A number");
 echo $numberInWord;
 
 echo "\n";

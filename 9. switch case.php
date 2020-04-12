@@ -39,49 +39,68 @@ switch ( $color ) {
 
 echo "\n";
 
-$num = 12;
+$num = -13;
 $result = $num % 2;
 
-// switch ($result) {
-//     case 0:
-//         switch ($num) {
-//             case $num > 0:
-//                 echo "$num is a positive even number";
-//                 break;
-//             case $num < 0:
-//                 echo "$num is a negative even number";
-//                 break;
-//         }
-//         break;
+switch ($result) {
+    case 0:
+        switch ($num) {
+            case $num > 0:
+                echo "$num is a positive even number";
+                break;
+            case $num < 0:
+                echo "$num is a negative even number";
+                break;
+        }
+        break;
     
-//     default:
-//         switch ($num) {
-//             case $num > 0:
-//                 echo "$num is a positive odd number";
-//                 break;
-//             case $num < 0:
-//                 echo "$num is a negative odd number";
-//                 break;
-//         }
-//     break;
-// }
+    default:
+        switch ($num) {
+            case $num > 0:
+                echo "$num is a positive odd number";
+                break;
+            case $num < 0:
+                echo "$num is a negative odd number";
+                break;
+        }
+    break;
+}
 
+echo "\n";
 
 switch (true) {
-    case ( $result == 0 && $num > 0):
+    case ( 0 == $result && $num > 0):
         echo "$num is a positive even number";
         break;
-    case ( $result == 1 && $num > 0):
+    case ( 1 == $result && $num > 0):
         echo "$num is a positive odd number";
         break;
 
-    case ( $result == 0 && $num < 0):
+    case ( 0 == $result && $num < 0):
         echo "$num is a negative even number";
         break;
-    case ( $result == 1 && $num < 0):
+    case ( -1 == $result && $num < 0):
         echo "$num is a negative odd number";
         break;
 }
 
 echo "\n";
 
+
+
+$string = "8balls";
+
+switch ($string) {
+    case (string) '9balls':
+       echo "Nice Ball";
+        break;
+    case (string) 8:
+        echo "8";
+            break;
+    case (string) '8balls':
+        echo "Eight Ball";
+            break;
+    default:
+        # code...
+        break;
+}
