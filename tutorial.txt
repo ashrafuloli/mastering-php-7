@@ -1,2 +1,2 @@
-১.১৯ - পিএইচপিতে অপারেটর প্রিসিডেন্স - কে আর আগে রান করে
-https://learnwith.hasinhayder.com/wp/course/mastering-php-7/chapter/1/episode/13/
+১.২৯ - লুপ দিয়ে ফিবোনাচ্চি সিরিজ প্রিন্ট করা
+https://learnwith.hasinhayder.com/wp/course/mastering-php-7/chapter/1/episode/29/
