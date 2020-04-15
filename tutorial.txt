@@ -1,2 +1,2 @@
-১.২৯ - লুপ দিয়ে ফিবোনাচ্চি সিরিজ প্রিন্ট করা
-https://learnwith.hasinhayder.com/wp/course/mastering-php-7/chapter/1/episode/29/
+৩.১ - অ্যারে পরিচিতি
+https://learnwith.hasinhayder.com/wp/course/mastering-php-7/chapter/3/episode/1/
