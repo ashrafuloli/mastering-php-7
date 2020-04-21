@@ -1,0 +1,13 @@
+run server
+===========
+
+php -S localhost:3030
+
+
+
+Doc List
+===========
+https://www.php.net/manual/en/ref.filter.php
+https://www.php.net/manual/en/function.filter-input.php
+https://www.php.net/manual/en/filter.filters.php
+https://www.php.net/manual/en/filter.filters.sanitize.php
