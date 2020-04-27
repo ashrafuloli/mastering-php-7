@@ -1,2 +1,2 @@
-৫.১ - প্রজেক্ট ডেটা স্ক্র‍্যাম্বলার
-https://learnwith.hasinhayder.com/wp/course/mastering-php-7/chapter/5/episode/1/
+৭.১ - ফাইল থেকে ডেটা পড়া
+https://learnwith.hasinhayder.com/wp/course/mastering-php-7/chapter/7/episode/1/
